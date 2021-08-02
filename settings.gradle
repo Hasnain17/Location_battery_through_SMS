@@ -1,0 +1,2 @@
+rootProject.name = "LocationSMS"
+include ':app'
